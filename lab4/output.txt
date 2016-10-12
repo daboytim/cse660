@@ -1,0 +1,64 @@
+/home/3/boytim/cse660/lab4       
+% ThreadA 
+Thread:6 Account[0]:22200 Account[1]:2600 Account[2]:5200 Sum: 30000
+
+Thread:5 Account[0]:22800 Account[1]:1400 Account[2]:5800 Sum: 30000
+
+Thread:4 Account[0]:20400 Account[1]:800 Account[2]:8800 Sum: 30000
+
+Thread:5 Account[0]:20400 Account[1]:-10000 Account[2]:19600 Sum: 30000
+
+Thread:6 Account[0]:23000 Account[1]:-3200 Account[2]:10200 Sum: 30000
+
+Thread:4 Account[0]:13600 Account[1]:-5800 Account[2]:22200 Sum: 30000
+
+Thread:5 Account[0]:12600 Account[1]:-7400 Account[2]:24800 Sum: 30000
+
+Thread:6 Account[0]:11200 Account[1]:-10000 Account[2]:28800 Sum: 30000
+
+Thread:5 Account[0]:11200 Account[1]:-11200 Account[2]:30000 Sum: 30000
+
+Thread:4 Account[0]:11600 Account[1]:-11200 Account[2]:29600 Sum: 30000
+
+Thread:5 Account[0]:13800 Account[1]:-23200 Account[2]:39400 Sum: 30000
+
+Thread:6 Account[0]:13600 Account[1]:-23800 Account[2]:40200 Sum: 30000
+
+Thread:4 Account[0]:10000 Account[1]:-20200 Account[2]:40200 Sum: 30000
+
+Thread:6 Account[0]:11000 Account[1]:-1200 Account[2]:20200 Sum: 30000
+
+Thread:4 Account[0]:10000 Account[1]:-200 Account[2]:20200 Sum: 30000
+
+Thread:6 Account[0]:29800 Account[1]:0 Account[2]:200 Sum: 30000
+
+Thread:6 Account[0]:38400 Account[1]:6000 Account[2]:-14400 Sum: 30000
+
+Thread:5 Account[0]:40400 Account[1]:9800 Account[2]:-20200 Sum: 30000
+
+Thread:4 Account[0]:40200 Account[1]:10000 Account[2]:-20200 Sum: 30000
+
+Thread:6 Account[0]:48200 Account[1]:11800 Account[2]:-30000 Sum: 30000
+
+Thread:4 Account[0]:35800 Account[1]:15600 Account[2]:-21400 Sum: 30000
+
+Thread:5 Account[0]:22200 Account[1]:23600 Account[2]:-15800 Sum: 30000
+
+Thread:4 Account[0]:15800 Account[1]:30000 Account[2]:-15800 Sum: 30000
+
+Thread:5 Account[0]:17400 Account[1]:12400 Account[2]:200 Sum: 30000
+
+Thread:6 Account[0]:26000 Account[1]:12600 Account[2]:-8600 Sum: 30000
+
+Thread:4 Account[0]:30000 Account[1]:15600 Account[2]:-15600 Sum: 30000
+
+Thread:6 Account[0]:30000 Account[1]:15600 Account[2]:-15600 Sum: 30000
+
+Thread:5 Account[0]:10400 Account[1]:29600 Account[2]:-10000 Sum: 30000
+
+Thread:4 Account[0]:10000 Account[1]:30000 Account[2]:-10000 Sum: 30000
+
+Thread:5 Account[0]:10000 Account[1]:10000 Account[2]:10000 Sum: 30000
+
+Times Checked: 5000
+Times Not Equal: 0
